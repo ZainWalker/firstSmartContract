@@ -1,6 +1,6 @@
 This is my first smart contract created using Solidity.
 
-Storage Factory enables us to create contracts on demand, as well as interacting with any given contract directly.
+Storage Factory enables us to create contracts on demand, as well as interacting with any given contract directly by adding variables to it.
 
 addFiveStorage adds 5 to the user's favorite number found in the contract file.
 
